@@ -8,3 +8,8 @@ title: Hello World
 <p class="meta">01 Aug 2017 - Brasília</p>
 
  I love :coffee: :pizza:, and :dancer:.
+ 
+ Latex??
+ $$
+ \sqrt{4} = 2
+ $$
