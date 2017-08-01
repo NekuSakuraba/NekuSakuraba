@@ -10,4 +10,4 @@ title: Hello World
  I love :coffee: :pizza:, and :dancer:.
  
  Latex?? <br />
- $ \sqrt{4} = 2 $
+ $$ \sqrt{4} = 2 $$
