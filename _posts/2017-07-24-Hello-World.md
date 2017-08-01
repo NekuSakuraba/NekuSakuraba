@@ -9,7 +9,5 @@ title: Hello World
 
  I love :coffee: :pizza:, and :dancer:.
  
- Latex??
- $$
- \sqrt{4} = 2
- $$
+ Latex?? <br />
+ $ \sqrt{4} = 2 $
