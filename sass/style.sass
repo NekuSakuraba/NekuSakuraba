@@ -4,9 +4,34 @@ $font-stack: Helvetica, sans-serif
 $primary-color: #333
 
 body 
-	font: 100% $font-stack
+	font: 0.875em $font-stack
 	color: $primary-color
+	background: #f0f0f0
+	padding-top: 15px
 
+nav
+	width: 100%
+	position: fixed
+	top: 0px
+	background: #fff
+	color: #00f
+	ul
+		margin-left: auto
+		margin-right: auto
+	li
+		background: #f0f
+		float: left
+		padding: 0
+		&:first-child
+			a
+				color: #ddd
+	lang
+		float: right
+
+page-content
+	padding: 2.88462em 0em 2.88462em
+	border-top: 2.30769em
+	
 h1 
 	color: #AF80ED
 
